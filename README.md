@@ -1,2 +1,0 @@
-# djangoURL
-zuri task
